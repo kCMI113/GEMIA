@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://doi.org/10.0000/gemia">Paper</a> ·
+  <a href="https://doi.org/10.1145/3799682.3841022">Paper</a> ·
   <a href="#citation">Citation</a>
 </p>
 
@@ -58,11 +58,20 @@ Experiment options are defined in `settings/*.yaml`, and outputs are saved under
 If you find this repository useful, please cite the paper:
 
 ```bibtex
-@inproceedings{gemia,
-  title     = {},
-  author    = {},
-  booktitle = {},
-  year      = {},
-  doi       = {10.0000/gemia}
+@inproceedings{10.1145/3799682.3841022,
+author = {Kang, Chanmi and Son, Bongguk and Cho, Junsu},
+title = {Generative Multimodal Intent Modeling with Adaptive Integration for Recommendation},
+year = {2026},
+isbn = {9798400725395},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3799682.3841022},
+doi = {10.1145/3799682.3841022},
+booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+pages = {2008–2019},
+numpages = {12},
+keywords = {recommender systems, multimodal sequential recommendation, multimodal semantic inference, multimodal fusion},
+location = {Rome, Italy},
+series = {CIKM '26}
 }
 ```
